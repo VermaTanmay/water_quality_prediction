@@ -3,7 +3,7 @@
 This is a Streamlit-based web app for predicting the potability of water based on various physicochemical parameters.
 
 ## 🌐 Live Demo
-You can access the app here: [Water Potability Prediction App](https://waterquality-prediction-fuff4gta2jfexz5stqjnxd.streamlit.app/)
+You can access the app here: [Water Potability Prediction App](https://waterqualityprediction-tanmay-verma.streamlit.app/)
 
 ---
 
